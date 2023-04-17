@@ -1,2 +1,1 @@
-# CMSP
- 
+#Gabarito do Centro de Mídias.
