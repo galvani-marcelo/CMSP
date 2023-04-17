@@ -1,1 +1,1 @@
-#Gabarito do Centro de Mídias.
+# Gabarito do Centro de Mídias.
